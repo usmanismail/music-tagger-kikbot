@@ -6,9 +6,9 @@
 
 ## Building
 
-   mvn clean install
+    mvn clean install
 
 ## Testing 
 
-   mvn jetty:run
+    mvn jetty:run
 
