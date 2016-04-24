@@ -12,3 +12,4 @@
 
     mvn jetty:run
 
+You can test your bot by sending the word test or test1 at it to use one of the hard-coded sample files else send the a video message with the song you want to recognise playing in the background. (There still isn't an audio only message feature.)
